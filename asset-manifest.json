@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/FoodRecipyFinder/static/css/main.c72d4e17.chunk.css",
-    "main.js": "/FoodRecipyFinder/static/js/main.503b751d.chunk.js",
-    "main.js.map": "/FoodRecipyFinder/static/js/main.503b751d.chunk.js.map",
+    "main.js": "/FoodRecipyFinder/static/js/main.7fec5bba.chunk.js",
+    "main.js.map": "/FoodRecipyFinder/static/js/main.7fec5bba.chunk.js.map",
     "runtime-main.js": "/FoodRecipyFinder/static/js/runtime-main.3d5b397d.js",
     "runtime-main.js.map": "/FoodRecipyFinder/static/js/runtime-main.3d5b397d.js.map",
     "static/js/2.8da82e36.chunk.js": "/FoodRecipyFinder/static/js/2.8da82e36.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3d5b397d.js",
     "static/js/2.8da82e36.chunk.js",
     "static/css/main.c72d4e17.chunk.css",
-    "static/js/main.503b751d.chunk.js"
+    "static/js/main.7fec5bba.chunk.js"
   ]
 }
