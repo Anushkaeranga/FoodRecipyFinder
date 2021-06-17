@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FoodRecipyFinder/static/css/main.c72d4e17.chunk.css",
+    "main.js": "/FoodRecipyFinder/static/js/main.503b751d.chunk.js",
+    "main.js.map": "/FoodRecipyFinder/static/js/main.503b751d.chunk.js.map",
+    "runtime-main.js": "/FoodRecipyFinder/static/js/runtime-main.3d5b397d.js",
+    "runtime-main.js.map": "/FoodRecipyFinder/static/js/runtime-main.3d5b397d.js.map",
+    "static/js/2.8da82e36.chunk.js": "/FoodRecipyFinder/static/js/2.8da82e36.chunk.js",
+    "static/js/2.8da82e36.chunk.js.map": "/FoodRecipyFinder/static/js/2.8da82e36.chunk.js.map",
+    "static/js/3.ae771b65.chunk.js": "/FoodRecipyFinder/static/js/3.ae771b65.chunk.js",
+    "static/js/3.ae771b65.chunk.js.map": "/FoodRecipyFinder/static/js/3.ae771b65.chunk.js.map",
+    "index.html": "/FoodRecipyFinder/index.html",
+    "static/css/main.c72d4e17.chunk.css.map": "/FoodRecipyFinder/static/css/main.c72d4e17.chunk.css.map",
+    "static/js/2.8da82e36.chunk.js.LICENSE.txt": "/FoodRecipyFinder/static/js/2.8da82e36.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/FoodRecipyFinder/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d5b397d.js",
+    "static/js/2.8da82e36.chunk.js",
+    "static/css/main.c72d4e17.chunk.css",
+    "static/js/main.503b751d.chunk.js"
+  ]
+}
